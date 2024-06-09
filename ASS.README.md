@@ -1,6 +1,6 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/-ucQIGTc)
 [![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-718a45dd9cf7e7f842a935f5ebbe5719a5e09af4491e668f4dbf3b35d5cca122.svg)](https://classroom.github.com/online_ide?assignment_repo_id=15221767&assignment_repo_type=AssignmentRepo)
-# SE-Assignment-2
+# SE-Assignment-2cd
 Assignment: Introduction to Software Engineering 
 Instructions:
 Answer the following questions based on your understanding of software engineering concepts. Provide detailed explanations and examples where appropriate.
@@ -141,7 +141,7 @@ A Version Control System (VCS) is a tool that helps software developers manage c
 VCS are important as they allow for:
     Collaboration: VCS allows multiple developers to work on the same project simultaneously without overwriting each other’s changes. 
 
-    History Tracking: Every change made to the code is recorded with a timestamp, the author’s information, and a commit message. 
+   
 
     Version Management: VCS enables the creation and management of different versions or branches of the code. 
     Backup and Recovery: Since VCS keeps track of every change, it acts as a backup system
